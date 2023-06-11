@@ -11,7 +11,7 @@ My name is Mohamad Krayem and I'm a passionate computer science graduate with a 
 - 💻 Programming Languages: Golang, JavaScript (ES6+), PHP
 - 🌐 Web Development: React, Node.js, Express, HTML5, CSS3
 - 🗄️ Database Technologies: MySQL, MongoDB
-- 🚀 DevOps: Docker, Kubernetes, Terraform
+- 🚀 DevOps: Docker, GitHub, ZenHub.
 - 📚 Version Control: Git
 
 ## 💡 Projects
